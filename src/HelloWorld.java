@@ -7,5 +7,9 @@ public class HelloWorld {
 //		System.out.print("R");
 		
 	}
+	
+	private void print() {
+		System.out.println("Hello Print Method!");
+	}
 
 }
