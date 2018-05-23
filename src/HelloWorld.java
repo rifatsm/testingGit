@@ -6,9 +6,11 @@ public class HelloWorld {
 //		System.out.printf("Hello Eclipse 2!!");
 //		System.out.print("R");
 		
+		print();
+		
 	}
 	
-	private void print() {
+	private static void print() {
 		System.out.println("Hello Print Method!");
 	}
 
